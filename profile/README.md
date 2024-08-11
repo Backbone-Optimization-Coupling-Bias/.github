@@ -1,6 +1,6 @@
 # Official Introduction
 
-## Dedicated Research on Black-Box Optimization and Coupling Bias in Modern Artificial Intelligence
+## Dedicated Research on Black-Box Optimization & Coupling Bias in Modern Artificial Intelligence
 
 Our team is committed to advancing the scientific understanding of **black-box optimization** techniques and the pervasive **Coupling Bias** phenomena observed in contemporary AI systems, particularly **deep neural networks**. Through rigorous **theoretical analysis** and **empirical investigation**, we aim to shed light on the fundamental mechanisms underlying these prevalent challenges in the field of artificial intelligence.
 
